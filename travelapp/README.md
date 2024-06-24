@@ -1,6 +1,6 @@
 # travelapp
 
-It's flutter project for improve
+It's flutter project for improve my skill, i can do more if i have more time.
 
 ## Getting Started
 
